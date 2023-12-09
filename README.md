@@ -30,3 +30,9 @@ This Turborepo has some additional tools already setup for you:
 - [Expo](https://docs.expo.dev/) for native development
 - [TypeScript](https://www.typescriptlang.org/) for static type checking
 - [Prettier](https://prettier.io) for code formatting
+
+### Project Related Ideas
+
+https://github.com/artsy/eigen/tree/main
+
+https://github.com/Uniswap/interface/tree/8465f6848cdd60959035426f7e546a6aad029a13

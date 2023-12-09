@@ -17,5 +17,8 @@
   "packageManager": "yarn@1.22.19",
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.8"
   }
 }
