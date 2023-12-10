@@ -16,9 +16,9 @@
     "target": "esnext",
     "types": ["react-native"],
     "paths": {
-      "wallet/*": ["../../packages/wallet/*"],
-      "ui/*": ["../../packages/ui/*"],
-      "@utilities/*": ["../../packages/utilities/*"]
+      "ui/*": ["../../packages/ui/src/*"],
+      "@theme/*": ["../../packages/ui/src/theme/*"],
+      "@utilities/*": ["../../packages/utilities/src/*"]
     }
   },
   "exclude": ["node_modules", "babel.config.js", "metro.config.js"]

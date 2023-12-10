@@ -1,6 +1,7 @@
 import { View } from 'Tamagui';
 import { Tabs } from 'expo-router';
 import React from 'react';
+import { Platform } from 'react-native';
 
 import { useAuth } from '@utilities/contexts/AuthContext';
 
